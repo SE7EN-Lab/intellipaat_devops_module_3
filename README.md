@@ -1,4 +1,4 @@
-# intellipaat_devops_module_3
+# intellipaat_devops_module_3 - Docker
 
 #### Problem Statement:
 1. Create docker image for apache web-server on ubuntu
